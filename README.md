@@ -1,0 +1,1 @@
+# jb-custom-ts-declaration-issue
