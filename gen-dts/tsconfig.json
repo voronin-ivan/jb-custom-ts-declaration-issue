@@ -1,0 +1,7 @@
+{
+  "include": ["*"],
+  "compilerOptions": {
+    "strict": true,
+    "moduleSuffixes": [".gen.d", ""]
+  }
+}

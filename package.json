@@ -1,0 +1,23 @@
+{
+  "name": "jb-custom-ts-declaration-issue",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "generate-dts": "node ./generate-dts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voronin-ivan/jb-custom-ts-declaration-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voronin-ivan/jb-custom-ts-declaration-issue/issues"
+  },
+  "homepage": "https://github.com/voronin-ivan/jb-custom-ts-declaration-issue#readme",
+  "devDependencies": {
+    "glob": "^11.0.0",
+    "oxc-transform": "^0.36.0",
+    "typescript": "^5.6.3"
+  }
+}
